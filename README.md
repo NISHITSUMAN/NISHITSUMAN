@@ -233,3 +233,6 @@ If you have any questions about web development, writing mistake-free documentat
 		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 	</picture>
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=NISHITSUMAN&style=plastic&color=blue&base=2356" alt = "Profile Views"/>
+</p>
