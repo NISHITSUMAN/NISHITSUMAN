@@ -158,6 +158,7 @@
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=NISHITSUMAN&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHITSUMAN&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
   </p>
 </details>
 
