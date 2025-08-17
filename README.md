@@ -157,7 +157,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NISHITSUMAN&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img alt="NISHITSUMAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NISHITSUMAN&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHITSUMAN&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="NISHITSUMAN" height="450px"/>
   </p>
 </details>
