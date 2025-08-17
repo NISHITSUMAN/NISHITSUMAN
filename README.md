@@ -1,6 +1,3 @@
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=NISHITSUMAN&style=plastic&color=blue&base=2356" alt = "Profile Views"/>
-</p>
 <div align="center">
 
 
